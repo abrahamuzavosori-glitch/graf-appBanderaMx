@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Práctica integradora: Bandera de México 🇲🇽
 
 ## Descripción del proyecto
@@ -46,3 +47,16 @@ También incluye el escudo nacional y los nombres de los integrantes del equipo.
 
 
 > Written with [StackEdit](https://stackedit.io/).
+=======
+># Instituto Tecnológico de Pachuca 
+Ingeniería en Sistemas Computacionales Graficación
+
+Practica: "Bandera de México" 
+
+Autores: 
+
+Abraham Uriel Zavala Osorio
+Cesar Ramses Hurtado Rios
+
+Fecha: "15 de Septiembre 2026"
+>>>>>>> 3ae8b9ea2dbe7256707398d48ba3d66f079a660f
